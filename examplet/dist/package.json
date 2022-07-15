@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"javier","email":"maujroja@espol.edu.ec"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/exampletD2E4B92D0F1149CFB60215829628E6AD.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"examplet","displayName":"examplet","guid":"exampletD2E4B92D0F1149CFB60215829628E6AD","visualClassName":"Visual","version":"1.0.0","description":"graph example","supportUrl":"https://github.com/JavierRojasC","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
